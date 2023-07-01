@@ -7,7 +7,6 @@ const pecas = {
         "energia": -21,
         "velocidade": -5
     },
-
     "blindagem": {
         "forca": 41,
         "poder": 20,

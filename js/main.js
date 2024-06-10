@@ -49,7 +49,7 @@ function dataMan(operation, controle){
         peca.value = parseInt(peca.value) + 1
     }
 }
-
+//Adding comments here to test
 function updateStatistics(peca){
     statistics.forEach( (element) => {
         element.textContent = parseInt(element.textContent) + pecas[peca][element.dataset.estatistica]
